@@ -1,0 +1,22 @@
+{
+  "name": "repositories",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "Repositories",
+    "description": "A list of our repositories in React Avançado course",
+    "kind": "plugin"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "maintainers": [{
+    "name": "A Strapi developer"
+  }],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
